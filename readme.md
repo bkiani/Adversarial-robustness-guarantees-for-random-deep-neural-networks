@@ -54,4 +54,7 @@ All figures are outputted to the figures folder. Example figures are shown there
 
 ## Authors
 
-* Anonymized for Submission
+* Giacomo De Palma (Scuola Normale Superiore)
+* [Bobak Kiani](https://github.com/bkiani) (MIT) 
+* Seth Lloyd (MIT)
+
